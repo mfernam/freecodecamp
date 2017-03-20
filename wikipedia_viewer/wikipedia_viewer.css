@@ -1,6 +1,5 @@
 body{
   padding-top: 60px;
-  width:600px;
   background-image: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url('https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/1200px-Wikipedia-logo-v2.svg.png');
   background-size: cover;
   background-color: lighten(#000, 93.5%);
