@@ -1,2 +1,2 @@
 # freecodecamp
-Code developed at freecodecamp certification
+Code developed in the course of freecodecamp
