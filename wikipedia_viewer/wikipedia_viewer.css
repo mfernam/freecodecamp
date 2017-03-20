@@ -1,0 +1,31 @@
+body{
+  padding-top: 60px;
+  background-image: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url('https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/1200px-Wikipedia-logo-v2.svg.png');
+  background-size: cover;
+  background-color: lighten(#000, 93.5%);
+  font-family: "Garamond";
+}
+#result{
+  padding-top: 60px;  
+}
+.result{
+  padding-top: 10px;  
+  padding-bottom: 10px;  
+  font-family: "Garamond";
+}
+a, a:focus,  a:visited{
+  color: #5F9EA0;
+  font-family: "Garamond";
+}
+a:hover{
+  border:0.3px;  
+  font-family: "Garamond";
+}
+#wText,#random{
+  font-family: "Garamond"; 
+}
+h1{
+  font-size:70px;
+  text-shadow: 3px 2px #F2F2F2;  
+  font-family: "Garamond";
+}
