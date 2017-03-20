@@ -1,0 +1,32 @@
+body{
+  padding-top: 60px;
+  font-family:"Fredericka the Great";
+}
+#header{
+  font-family:"Fredericka the Great";
+  font-size: large;
+}
+p{
+  vertical-align: middle;
+  text-align: justify;
+  font-family: "Forum";
+  font-size: large;
+}
+#img-footer{  
+  vertical-align: middle;
+  text-align: center;
+  font-family: "Fredericka the Great";  
+  font-size: small;
+}
+#block{  
+  vertical-align: middle;
+  text-align: justify;
+  font-family: "Forum";
+  font-size: large;
+}
+#p-footer{
+  vertical-align: middle;
+  text-align: center;
+  font-family: "sans-serif";
+  font-size: small;
+}
