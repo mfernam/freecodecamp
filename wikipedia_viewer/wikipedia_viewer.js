@@ -1,9 +1,9 @@
-var randomURL = "https://en.wikipedia.org/wiki/Special:Random";
 
+$( document ).ready(function() {
+var randomURL = "https://en.wikipedia.org/wiki/Special:Random";
 $('#random').click(function(){
     window.open(randomURL);    
 });
-
 $('#wText').keypress(function(e) {
     if(e.which == 13) {
       $('#result').html("");
@@ -25,3 +25,4 @@ $.ajax({
   });
   } 
 }
+});
