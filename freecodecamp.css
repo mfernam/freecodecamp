@@ -2,6 +2,9 @@
     box-sizing: border-box;
     display: none
 }
+img{
+    width:100px;
+}
 .gitter-icon {
     box-sizing: border-box;
     width: 22px;
